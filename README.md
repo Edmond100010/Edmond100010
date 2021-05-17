@@ -1,4 +1,4 @@
-- Hi, I’m @Edmond100010. I am an undergraduate student in City University of Hong Kong. My major is computer and data engineering.
+- Hi, I’m @Edmond100010. I am an undergraduate student in City University of Hong Kong.
 - 🌱 I’m currently learning python and algorithm.
 
 <!---
