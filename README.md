@@ -1,6 +1,6 @@
 - Hi, I’m @Edmond100010. I am an undergraduate student at City University of Hong Kong.
 - EE Major
-- Favourite language: Java
+- Favourite language: Python, Java
 
 
 <!---
